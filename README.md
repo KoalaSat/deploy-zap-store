@@ -42,7 +42,7 @@ steps:
     uses: actions/upload-release-asset@v1
     ....
 
-  - name: Upload to zap.Store
+  - name: Upload to Zap.Store
     uses: KoalaSat/deploy-zap-store@v1
     with:
       app_name: Facy App
