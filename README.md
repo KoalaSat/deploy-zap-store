@@ -12,7 +12,7 @@ This action sets up and deploys you APK to the [Zap.Store](https://github.com/za
 
 # Pre-requisites
 
-This action will deploy the latest release on your github repository. If you want to integrate it on your release workwlof make sure you run it after the release is created on GitHub.
+This action will deploy the latest release on your github repository. If you want to integrate it on your release workflow make sure you run it after the release is created on GitHub.
 
 # Usage
 
