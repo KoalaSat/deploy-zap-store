@@ -1,13 +1,14 @@
 # deploy-zap-store
 
 This action sets up and deploys you APK to the [Zap.Store](https://github.com/zapstore/zapstore):
- - Downloading the SDK commandline tools, if the current version (11.0) is not found in either `$ANDROID_SDK_ROOT` or `$HOME/.android/sdk`.
+ - Downloading the SDK command-line tools if the current version (11.0) is not found in either $ANDROID_SDK_ROOT or $HOME/.android/sdk
  - Accepting the SDK licenses.
- - Installing `tools` and `platform-tools`.
- - Downloadin and Installing Dart SDK
- - Downloadin and Installing Apktool
- - Downloadin and Installing zapstore-cli
- - Setting up a new release and publishing it to nostr
+ - Installing tools and platform-tools.
+ - Downloading and installing the Dart SDK.
+ - Downloading and installing Apktool.
+ - Downloading and installing zapstore-cli.
+ - Setting up a new Zap.Store release.
+ - Publishing the release and other necessary events to Nostr
 
 # Pre-requisites
 
